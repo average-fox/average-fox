@@ -6,9 +6,12 @@ i also like books.
 
 > what are you in your profession when your tools are taken away from you?
 
-<figure><embed src="https://wakatime.com/share/@Climax_/299c07a1-9c3c-4848-ad94-f19e545ea56c.svg" align="center" justify="center"></embed></figure>
+---
 
-<a href="https://wakatime.com/@34b1e2ae-391a-48f8-9cf7-97c20295d7c6"><img src="https://wakatime.com/badge/user/34b1e2ae-391a-48f8-9cf7-97c20295d7c6.svg" alt="Total time coded since Oct 9 2020" /></a>
+_the only useful statistics_
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Climax_/744c19bf-0a1a-4896-b8e4-bc9772a8a942.png"/></a>
+
+---
 
 proud light themer + traditionalist
 
