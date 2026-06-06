@@ -11,3 +11,14 @@ i also like books.
 <a href="https://wakatime.com/@34b1e2ae-391a-48f8-9cf7-97c20295d7c6"><img src="https://wakatime.com/badge/user/34b1e2ae-391a-48f8-9cf7-97c20295d7c6.svg" alt="Total time coded since Oct 9 2020" /></a>
 
 proud light themer + traditionalist
+
+
+<div class="certificates">
+  <details>
+    <summary>
+      <b>certificates</b>
+    </summary>
+  <div class="certificate-holder">
+       <p>asset folder set to private.<br>can't show here.</p> 
+  </details>
+</div>
