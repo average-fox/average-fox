@@ -9,8 +9,11 @@ i also like books.
 ---
 
 _the only useful statistics_
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Climax_/744c19bf-0a1a-4896-b8e4-bc9772a8a942.png"/></a>
 
+<div style="display: flex; gap: 10px;">
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Climax_/744c19bf-0a1a-4896-b8e4-bc9772a8a942.png"/></a>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Climax_/34962cef-2eee-48f8-8b51-4d47663cb41d.png" /></a>
+</div>
 ---
 
 proud light themer + traditionalist
