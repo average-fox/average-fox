@@ -1,3 +1,3 @@
-Name's Sahil. Nice to meet ya.
-
-I focus on python & java. I like simple things.
+<picture>
+    <source srcset="https://github.com/average-fox/assets/blob/main/average-fox/video-image-files/m4a1-gfl2-demo.webp">
+</picture>
